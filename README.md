@@ -20,23 +20,6 @@ L'application météo présente une interface utilisateur intuitive où les util
 - JavaScript
 - API OpenWeatherMap
 
-## Configuration
-
-Pour que l'application fonctionne, vous devez obtenir une clé API depuis [OpenWeatherMap](https://openweathermap.org/api) et la remplacer dans le fichier `script.js` où il est mentionné `API_KEY`.
-
-```javascript
-// Définition de la clé d'API
-const API_KEY = "API";
-```
-
-## Installation
-
-1. Clonez le dépôt GitHub sur votre machine locale.
-```bash
-git clone https://github.com/your-username/weather-app.git
-```
-2. Ouvrez le fichier `index.html` dans votre navigateur préféré.
-3. Profitez de l'application météo et découvrez la météo de différentes villes !
 
 ## Contribution
 
